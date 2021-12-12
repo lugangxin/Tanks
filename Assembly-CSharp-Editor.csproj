@@ -58,6 +58,7 @@
   <ItemGroup>
     <Compile Include="Assets\TutorialInfo\Scripts\Editor\ReadmeEditor.cs" />
     <Compile Include="Assets\Editor\MoveSceneViewCamera.cs" />
+    <Compile Include="Assets\Editor\CreateAssetBundles.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
